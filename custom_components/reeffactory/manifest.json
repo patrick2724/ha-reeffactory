@@ -1,0 +1,12 @@
+{
+  "domain": "reeffactory",
+  "name": "Reef Factory",
+  "version": "1.0.0",
+  "documentation": "https://github.com/patrick2724/ha-reeffactory",
+  "issue_tracker": "https://github.com/patrick2724/ha-reeffactory/issues",
+  "dependencies": [],
+  "codeowners": ["@patrick2724"],
+  "requirements": ["websockets>=12.0"],
+  "config_flow": true,
+  "iot_class": "local_push"
+}
